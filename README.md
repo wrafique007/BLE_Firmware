@@ -8,7 +8,7 @@ NRF connect for Visual Studio Code was used to develop and debug the firmware
 NRF SDK 2.5.0 was used to develop the firmware
 
 # BLE_Firmware
-This repository contains the code for BLE firmware. Firmware contains following things:
+Firmware contains following things:
 * A custom GATT service which contains 2 characteristics, one for LED and one for Button
 * Button characteristic has read and notify operations associated with it and LED characteristic has write operation associated with it
 * LED characteristic requires pairing with Authentication
